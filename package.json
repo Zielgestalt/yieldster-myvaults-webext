@@ -1,8 +1,8 @@
 {
-  "name": "vitesse-webext",
-  "displayName": "Vitesse WebExt",
-  "version": "0.0.1",
-  "description": "[description]",
+  "name": "yieldster-myvaults",
+  "displayName": "Yieldster MyVaults",
+  "version": "0.0.2",
+  "description": "Display balances of your Yieldster vaults",
   "private": true,
   "scripts": {
     "dev": "npm run clear && cross-env NODE_ENV=development run-p dev:*",
